@@ -1,0 +1,5 @@
+ROOT=.
+TARGET=LPC1768
+TARGET_CODE=1010
+DEVICE_ID[/home/studio/workspace/final_proj_IMU]=101000000000000000000002F7F42A42
+DEVICE_TYPE[/home/studio/workspace/final_proj_IMU]=connected
