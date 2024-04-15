@@ -27,6 +27,11 @@ LEDs (Red, Green, Blue) https://os.mbed.com/users/yoonghm/notebook/digital-outpu
 
 ![Image](https://github.com/users/daray21/projects/1/assets/77138061/4b791bed-8995-48d0-935c-488b48bb957a)
 
+Navigation Switch https://os.mbed.com/users/4180_1/notebook/using-a-navigation-switch-digital-joystick/
+
+![navsw](https://github.com/daray21/ECE4180TeamDesignProject/assets/77138061/c739532f-cf79-4bc9-a596-2ed7bf178c5a)
+
+
 ### Wiring
 
 ![tables2](https://github.com/daray21/ECE4180TeamDesignProject/assets/77138061/04825e95-d686-4e25-855c-071be21589be)
