@@ -27,4 +27,9 @@ LEDs (Red, Green, Blue) https://os.mbed.com/users/yoonghm/notebook/digital-outpu
 
 ![Image](https://github.com/users/daray21/projects/1/assets/77138061/4b791bed-8995-48d0-935c-488b48bb957a)
 
-### Wiring#
+### Wiring
+
+![tables](https://github.com/daray21/ECE4180TeamDesignProject/assets/77138061/cf38d604-6bfa-4130-976e-1c1497026e38)
+
+
+
