@@ -37,5 +37,9 @@ Navigation Switch https://os.mbed.com/users/4180_1/notebook/using-a-navigation-s
 ![tables2](https://github.com/daray21/ECE4180TeamDesignProject/assets/77138061/04825e95-d686-4e25-855c-071be21589be)
 
 
+### Video Demo
 
+[![Simon Says Demo](https://img.youtube.com/vi/vJ2F9Ht88_8/0.jpg)](https://www.youtube.com/watch?v=vJ2F9Ht88_8)
+
+[![Win Screen Demo](https://img.youtube.com/vi/rOHd0TVIkQ/0.jpg)](https://www.youtube.com/watch?v=rOHd0TVIkQ)
 
